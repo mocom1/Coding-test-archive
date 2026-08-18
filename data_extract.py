@@ -1,3 +1,5 @@
+#https://school.programmers.co.kr/learn/courses/30/lessons/250121
+
 def solution(data, ext, val_ext, sort_by):
     fix_data = [[]]
     new_data = [[]]

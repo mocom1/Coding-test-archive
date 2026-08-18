@@ -1,4 +1,6 @@
-    def solution(players, callings):
+#https://school.programmers.co.kr/learn/courses/30/lessons/250121
+
+def solution(players, callings):
         rank = {name: idx for idx, name in enumerate(players)} #딕셔너리형태로
 
         for player in range(len(callings)):

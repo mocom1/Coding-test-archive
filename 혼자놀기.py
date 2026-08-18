@@ -1,5 +1,4 @@
 #https://school.programmers.co.kr/learn/courses/30/lessons/131130
-#혼자놀기문제
 
 #num에서 사용하는 번호는 실제 리스트번호 +1 해야함. 1,2,3  . .
 

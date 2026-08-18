@@ -1,3 +1,5 @@
+#https://school.programmers.co.kr/learn/courses/30/lessons/250137
+
 def solution(bandage, health, attacks):
     current_health = health
     stack = 0
